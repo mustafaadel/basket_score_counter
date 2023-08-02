@@ -1,4 +1,4 @@
-import 'package:basketball_counter_app/business_logic/cubit/cubit/counter_cubit.dart';
+import 'package:basketball_counter_app/counter_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
